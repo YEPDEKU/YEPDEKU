@@ -1,4 +1,4 @@
-Greetings, Folks 〠
+<!---Greetings, Folks 〠
 
 
 Since you're on my account have fun!
@@ -13,4 +13,4 @@ Besides programming my hobbies are playing chess, csgo and listening to Hip-Hop/
 YEPDEKU/YEPDEKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=besseralsmati&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=besseralsmati&unique={true|1|on|yes}) --->
