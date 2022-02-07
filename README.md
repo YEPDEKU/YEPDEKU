@@ -3,9 +3,9 @@ Since you are on my profile, here is some information about me!
 
 <h2>About me ♝ </h2>
 
-I am an austrian programmer who is working with C# and Javascript, I also like messing around with Brainfuck.
+I am an austrian programmer who is working with C# and Nextjs, I also like messing around with Brainfuck.
 
-Besides programming my hobbies are playing chess, csgo and listening to Hip-Hop/Rap where my favorite artists are [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE?si=J5ASplswSu-Yy_Y_Hp70wQ), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y?si=IPFnyH_ORq2DiolgofOY2w) and [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q?si=V85oGDdLR2Kmc3YW-8T4jw)
+Besides programming my hobbies are playing chess, csgo and listening to Hip-Hop/Rap where my favorite artists is[Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y?si=IPFnyH_ORq2DiolgofOY2w) 
 
 You can find me on [![Twitter][1.2]][1]
 
