@@ -5,8 +5,6 @@ Since you are on my profile, here is some information about me!
 
 Austrian programmer working with C# and nextjs.
 
-Besides programming my hobbies are playing chess and csgo
-
 You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
