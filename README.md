@@ -3,7 +3,7 @@ Since you are on my profile, here is some information about me!
 
 <h2>About me ♝ </h2>
 
-Austrian programmer working with C#, tailwindcss and nextjs.
+Austrian programmer working with C# and nextjs.
 
 Besides programming my hobbies are playing chess and csgo
 
