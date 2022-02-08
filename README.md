@@ -5,7 +5,7 @@ Since you are on my profile, here is some information about me!
 
 I am an austrian programmer who is working with C#, Next and NodeJS, Tailwindcss and Git.
 
-Besides programmi2ng my hobbies are playing chess, csgo and listening to Hip-Hop/Rap where my favorite artist is [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y?si=IPFnyH_ORq2DiolgofOY2w) 
+Besides programmi2ng my hobbies are playing chess and csgo
 
 You can find me on [![Twitter][1.2]][1]
 
