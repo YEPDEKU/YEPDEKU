@@ -5,7 +5,7 @@ Since you are on my profile, here is some information about me!
 
 Austrian programmer working with C#, tailwindcss and nextjs.
 
-Besides programmi2ng my hobbies are playing chess and csgo
+Besides programming my hobbies are playing chess and csgo
 
 You can find me on [![Twitter][1.2]][1]
 
