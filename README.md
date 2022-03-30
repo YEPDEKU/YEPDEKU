@@ -3,12 +3,13 @@ Since you are on my profile, here is some information about me!
 
 <h2>About me ♝ </h2>
 
-Austrian programmer working with C# and nextjs.
+Austro-serb, mostly working with C#, C & Java
+Trackmania Openplanet Plugins with Angelscript
 
 You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[1]: https://twitter.com/5headDeku
+[1]: https://twitter.com/Dekunop
 <br>
 
 
